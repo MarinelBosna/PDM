@@ -1,0 +1,2 @@
+rootProject.name = "GpsLiveLocation"
+include ':app'
